@@ -1,0 +1,10 @@
+{
+  "name": "eslint-config-prettier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@riazguzman"
+  },
+  "repository": "https://github.com/riazguzman/eslint-config-templates.git",
+  "license": "MIT"
+}
