@@ -1,6 +1,7 @@
 module.exports = {
     extends: [
       "airbnb/hooks",
+      "@designed-and-developed/eslint-config-prettier-typescript"
     ],
     rules: {
       // React
