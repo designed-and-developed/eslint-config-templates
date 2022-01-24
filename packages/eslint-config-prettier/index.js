@@ -1,5 +1,8 @@
 module.exports = {
-    extends: ["eslint:recommended"],
+  extends: [
+    "airbnb",
+    "prettier",
+  ],
     env: {
       browser: true,
       es6: true,
