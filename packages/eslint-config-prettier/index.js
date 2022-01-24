@@ -12,6 +12,18 @@ module.exports = {
     rules: {
       // prettier
       "prettier/prettier": ["error"],
+       // import
+       "import/extensions": [
+        "error",
+        "ignorePackages",
+        {
+          js: "never",
+          mjs: "never",
+          jsx: "never",
+          ts: "never",
+          tsx: "never",
+        },
+      ],
     },
     settings: {
       "import/resolver": {
