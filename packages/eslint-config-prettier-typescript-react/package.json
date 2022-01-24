@@ -9,7 +9,7 @@
   "license": "MIT",
   "gitHead": "936ed953f754bf91d5396201e0dbe635c3690bde",
   "dependencies": {
-    "eslint-config-airbnb": "^19.0.2",
+    "@designed-and-developed/eslint-config-prettier-typescript": "1.0.3",
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0"

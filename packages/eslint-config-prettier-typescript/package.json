@@ -9,7 +9,7 @@
   "license": "MIT",
   "gitHead": "936ed953f754bf91d5396201e0dbe635c3690bde",
   "dependencies": {
-    "@designed-and-developed/eslint-config-prettier": "^1.0.5",
+    "@designed-and-developed/eslint-config-prettier": "1.0.4",
     "@typescript-eslint/eslint-plugin": "^5.10.1"
   },
   "peerDependencies": {
