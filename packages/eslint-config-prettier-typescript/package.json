@@ -1,6 +1,6 @@
 {
   "name": "@designed-and-developed/eslint-config-prettier-typescript",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
