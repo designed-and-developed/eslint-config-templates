@@ -1,6 +1,6 @@
 {
   "name": "@designed-and-developed/eslint-config-prettier-typescript-next",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "repository": "https://github.com/designed-and-developed/eslint-config-templates.git",
   "license": "MIT",

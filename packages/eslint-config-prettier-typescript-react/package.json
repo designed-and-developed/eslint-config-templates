@@ -1,12 +1,12 @@
 {
   "name": "@designed-and-developed/eslint-config-prettier-typescript-react",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "main": "index.js",
   "repository": "https://github.com/designed-and-developed/eslint-config-templates.git",
   "license": "MIT",
   "gitHead": "936ed953f754bf91d5396201e0dbe635c3690bde",
   "dependencies": {
-    "@designed-and-developed/eslint-config-prettier-typescript": "^1.0.9",
+    "@designed-and-developed/eslint-config-prettier-typescript": "^1.0.10",
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0"
