@@ -2,9 +2,6 @@
   "name": "@designed-and-developed/eslint-config-prettier-typescript",
   "version": "1.0.9",
   "main": "index.js",
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": "https://github.com/designed-and-developed/eslint-config-templates.git",
   "license": "MIT",
   "gitHead": "936ed953f754bf91d5396201e0dbe635c3690bde",
@@ -17,5 +14,8 @@
     "eslint": "^7.32.0 || ^8.2.0",
     "prettier": "^1.18.2 || ^2.0.0",
     "typescript": ">=3.3.1"
+  },  
+  "publishConfig": {
+    "access": "public"
   }
 }

@@ -4,10 +4,10 @@
   "main": "index.js",
   "author": "Tae-gyu Yun <tgyyun@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
-    "lerna": "^4.0.0"
-  },
   "publishConfig": {
     "access": "public"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
   }
 }
