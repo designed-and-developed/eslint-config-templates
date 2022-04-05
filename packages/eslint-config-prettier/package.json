@@ -1,9 +1,9 @@
 {
   "name": "@designed-and-developed/eslint-config-prettier",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "access": "public"
   },
   "repository": "https://github.com/designed-and-developed/eslint-config-templates.git",
   "license": "MIT",
@@ -21,8 +21,5 @@
   "devDependencies": {
     "@types/react": "17.0.37",
     "standard-version": "9.0.0"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
