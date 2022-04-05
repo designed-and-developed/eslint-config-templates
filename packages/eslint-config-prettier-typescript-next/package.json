@@ -7,5 +7,8 @@
   },
   "repository": "https://github.com/designed-and-developed/eslint-config-templates.git",
   "license": "MIT",
-  "gitHead": "936ed953f754bf91d5396201e0dbe635c3690bde"
+  "gitHead": "936ed953f754bf91d5396201e0dbe635c3690bde",
+  "publishConfig": {
+    "access": "public"
+  }
 }
